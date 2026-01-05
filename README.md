@@ -19,7 +19,7 @@
 
 ## 📖 About
 
-**aiMed** is a mobile health application that helps users safely manage multiple medications. It combines medication tracking with AI-powered analysis to identify potential drug interactions and provide patient-friendly safety information.
+**aiMed** is a mobile health application that helps users safely manage multiple medications. It combines medication tracking with AI-powered analysis to identify potential drug interactions and provide patient-friendly safety information sourced from the RxTerms dataset.
 
 ### Key Features
 
